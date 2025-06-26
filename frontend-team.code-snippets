@@ -1068,11 +1068,11 @@
 		"scope": "javascriptreact,html",
 		"body": [
 			"<div class=\"jq-wrapper-external\">",
-			"    <script src=\"https: //cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.4/swiper-bundle.min.js\"",
+			"    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/Swiper/8.4.4/swiper-bundle.min.js\"",
 			"        integrity=\"sha512-k2o1KZdvUi59PUXirfThShW9Gdwtk+jVYum6t7RmyCNAVyF9ozijFpvLEWmpgqkHuqSWpflsLf5+PEW6Lxy/wA==\"",
 			"        crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\"></script>",
 			"</div>",
-			"<link rel=\"stylesheet\" href=\"https: //cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css\" />",
+			"<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css\" />",
 			"",
 			"<div class=\"jq-wrapper-internal\">",
 			"    <script id=\"swiper\">",
